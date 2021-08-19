@@ -25,7 +25,6 @@ int main()
 {
 	isPalindrome("abba");
 	isPalindrome("abbccbba");
-	isPalindrome("geeks");
+	isPalindrome("hameed");
 	return 0;
 }
-0ut put : abba and abbccbba is apalindrome  rest of one is not a palindrome
